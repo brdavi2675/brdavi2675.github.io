@@ -1,5 +1,5 @@
 ## End Result!
-![Demo Vid](images/DemoVid.gif)
+![Demo Vid](https://github.com/brdavi2675/brdavi2675.github.io/blob/master/images/DemoVid.gif)
 
 
 ## Error? What's an Error?
